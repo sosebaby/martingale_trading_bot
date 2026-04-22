@@ -134,8 +134,6 @@ CONFIG = {
 }
 ```
 
-> ⚠️ **Never commit `config.py` with real credentials.** Add it to `.gitignore`.
-
 ### Pre-flight Check
 
 ```bash

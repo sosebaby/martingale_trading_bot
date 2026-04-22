@@ -174,8 +174,6 @@ US30    NAS100
 ---
 
 ## 🔐 Security Notes
-
-- `config.py` is excluded from version control via `.gitignore`
 - Only whitelisted Telegram chat IDs can send signals
 - Max level cap prevents runaway loss escalation
 - Spread validation blocks trades during high-volatility news events

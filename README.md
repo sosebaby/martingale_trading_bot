@@ -205,7 +205,7 @@ Martingale bot/
 
 **Euodia Ebalu**
 AI Student — Durham College | Honours Bachelor of Artificial Intelligence
-[GitHub](https://github.com/sosebaby) · [LinkedIn](https://linkedin.com/in/euodia-eseose-ebalu)
+[GitHub](https://github.com/sosebaby) · [LinkedIn](https://linkedin.com/in/euodia-eseose-ebalu) · [Portfolio](https://euodiaebaluportfolio.netlify.app/)
 
 ---
 

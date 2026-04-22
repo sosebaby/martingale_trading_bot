@@ -5,16 +5,16 @@ config.py — Single source of truth for all bot settings.
 CONFIG = {
 
     # ── TELEGRAM ─────────────────────────────────────────────────────
-    "TELEGRAM_BOT_TOKEN": "8743038454:AAHUVasDcACtmzrMJ9-Eht7ZudvO3yMQUUo",
+    "TELEGRAM_BOT_TOKEN": "YOUR-TOKEN",
     "TELEGRAM_ALLOWED_CHAT_IDS": [
         6290115847,
         -1003567290589
     ],
 
     # ── MT5 ACCOUNT ───────────────────────────────────────────────────
-    "MT5_LOGIN":    410291847,
-    "MT5_PASSWORD": "Amaechi2$",
-    "MT5_SERVER":   "Exness-MT5Real10",
+    "MT5_LOGIN":    YOUR-LOGIN,
+    "MT5_PASSWORD": "PASSWORD",
+    "MT5_SERVER":   "Exness-**
 
     # ── MARTINGALE SETTINGS ───────────────────────────────────────────
     "BASE_LOT_SIZE":          0.01,   # Lot size at Level 1
